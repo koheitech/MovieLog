@@ -1,6 +1,8 @@
 'use strict';
+const mongoose = require('mongoose');
 const express = require('express');
 const router = express.Router();
+
 
 // demo database TO BE deleted
 const genres = [
