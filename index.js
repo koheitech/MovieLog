@@ -1,4 +1,5 @@
 'use strict';
+require('express-async-errors');
 const config = require('config');
 const mongoose = require('mongoose');
 const Joi = require('joi');
