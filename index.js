@@ -15,10 +15,15 @@ const auth = require('./routes/auth');
 const express = require('express');
 const app = express();
 
-winston.add(winston.transports.File, { filename: 'logfile.log' });
-winston.add(winston.transports.MongoDB, { 
-  db: 'mongodb://localhost/movielog' 
+process.on('uncaughtException', (ex) => {
+  console.log('WE GOT AN UNCAUGHT EXCEPTION');
+  winston.error(ex.message, ex);
 });
+
+winston.add(winston.transports.File, { filename: 'logfile.log' });
+winston.add(winston.transports.MongoDB, { db: 'mongodb://localhost/movielog' });
+
+throw new Error('Something failed during startup');
 
 
 if (!config.get('jwtPrivateKey')) {
