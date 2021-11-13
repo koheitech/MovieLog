@@ -11,3 +11,8 @@
 {"level":"info","message":"Connected to mongodb://localhost/movielog...","timestamp":"2021-11-13T22:44:40.348Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T22:45:14.807Z"}
 {"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T22:45:14.824Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T22:50:59.809Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T22:58:33.983Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T22:58:34.010Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T22:59:13.045Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T22:59:13.069Z"}
