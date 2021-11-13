@@ -70,3 +70,12 @@
 {"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:34:30.688Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:35:19.854Z"}
 {"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:35:19.873Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:37:10.332Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:37:10.351Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:38:22.749Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:38:22.768Z"}
+{"message":"Cast to ObjectId failed for value \"invalid\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"invalid\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/Users/koheimiyamoto/dev/myDocker/mosh-nodejs-course/movielog/node_modules/mongoose/lib/query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (/Users/koheimiyamoto/dev/myDocker/mosh-nodejs-course/movielog/node_modules/mongoose/lib/query.js:4592:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)","stringValue":"\"invalid\"","kind":"ObjectId","value":"invalid","path":"_id","reason":{},"valueType":"string","level":"error","timestamp":"2021-11-13T23:38:22.847Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:41:41.023Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:41:41.043Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:41:49.119Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:41:49.138Z"}
