@@ -55,11 +55,7 @@ router.get('/:id', async (req, res) => {
 
   if (!genre) res.status(404).send('The genre is not found.');
   
-  res.send(
-    `The genre is found!
-    genre ID: ${genre.id}
-    genre name: ${genre.name}`
-    );
+  res.send(genre);
 });
 
 

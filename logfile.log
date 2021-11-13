@@ -34,3 +34,39 @@
 {"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:09:23.127Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:10:52.105Z"}
 {"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:10:52.125Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:16:07.841Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:16:07.859Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:16:44.280Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:16:44.299Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:18:00.120Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:18:00.141Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:20:47.658Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:20:47.677Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:22:17.788Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:22:17.809Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:22:31.444Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:22:31.463Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:23:08.051Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:23:08.072Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:25:04.776Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:25:04.794Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:26:19.448Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:26:19.467Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:27:02.235Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:27:02.255Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:28:58.401Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:28:58.420Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:29:51.302Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:29:51.322Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:30:09.965Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:30:09.984Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:31:25.377Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:31:25.396Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:31:45.389Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:31:45.410Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:32:56.387Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:32:56.405Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:34:30.669Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:34:30.688Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:35:19.854Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:35:19.873Z"}
