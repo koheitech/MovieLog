@@ -90,3 +90,29 @@
 {"message":"Cast to ObjectId failed for value \"invalid\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"invalid\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/Users/koheimiyamoto/dev/myDocker/mosh-nodejs-course/movielog/node_modules/mongoose/lib/query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (/Users/koheimiyamoto/dev/myDocker/mosh-nodejs-course/movielog/node_modules/mongoose/lib/query.js:4592:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)","stringValue":"\"invalid\"","kind":"ObjectId","value":"invalid","path":"_id","reason":{},"valueType":"string","level":"error","timestamp":"2021-11-13T23:45:17.086Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-13T23:45:54.811Z"}
 {"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-13T23:45:54.832Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T00:32:21.523Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T00:32:21.548Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T00:33:14.211Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T00:33:14.232Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T00:33:54.687Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T00:33:54.708Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T00:35:00.904Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T00:35:00.923Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T00:36:56.584Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T00:36:56.602Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T00:38:11.506Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T00:38:11.525Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T00:38:43.817Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T00:38:43.835Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T00:40:38.469Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T00:40:38.487Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T00:42:14.630Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T00:42:14.648Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T00:42:27.839Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T00:42:27.858Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T00:43:06.472Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T00:43:06.491Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T00:43:41.214Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T00:43:41.233Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T00:44:32.538Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T00:44:32.557Z"}
