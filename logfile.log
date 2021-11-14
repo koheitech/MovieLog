@@ -350,3 +350,39 @@
 {"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:26:16.372Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:26:16.373Z"}
 {"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2021-11-14T08:26:16.486Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:27:38.673Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:27:38.694Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:27:38.690Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:27:38.727Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:28:03.944Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:28:03.987Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:28:03.999Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:28:04.018Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:28:07.615Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:28:07.685Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:28:08.311Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:28:08.358Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:29:20.908Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:29:20.926Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:29:20.968Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:29:21.008Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:29:28.516Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:29:28.537Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:29:28.548Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:29:28.558Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:29:41.753Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:29:41.768Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:29:41.779Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:29:41.792Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:29:45.355Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:29:45.443Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:29:46.069Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:29:46.102Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:30:50.507Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:30:50.526Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:30:50.542Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:30:50.594Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:30:54.645Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:30:54.658Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:30:54.668Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:30:54.698Z"}

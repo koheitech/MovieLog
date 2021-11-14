@@ -4,7 +4,7 @@
   "description": "a movie-logging application.",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll --verbose"
+    "test": "jest --verbose --coverage"
   },
   "keywords": [],
   "author": "",
