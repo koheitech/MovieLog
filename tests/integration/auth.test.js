@@ -1,14 +1,18 @@
 'use strict';
 
 const request = require('supertest');
-const {User} = require('../../models/user');
+const { Genre } = require('../../models/genre');
+const { User } = require('../../models/user');
 
 let server;
 
 describe('auth middleware', () => {
   
   beforeEach(() => { server = require('../../index'); });
-  afterEach(() => { server.close(); });
+  afterEach(async () => { 
+    await Genre.remove({});
+    server.close(); 
+  });
 
   let token;
 
