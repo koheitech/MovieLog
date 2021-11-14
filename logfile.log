@@ -285,3 +285,68 @@
 {"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2021-11-14T08:11:54.970Z"}
 {"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:11:54.984Z"}
 {"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2021-11-14T08:11:55.007Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:19:23.248Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:19:23.255Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:19:23.266Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:19:23.295Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:19:26.932Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:19:26.980Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:19:27.005Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:19:27.016Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:19:34.465Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:19:34.477Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:19:34.488Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:19:34.517Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:21:19.703Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:21:19.722Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:21:19.718Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:21:19.754Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:21:42.535Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:21:42.555Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:21:42.544Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:21:42.603Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:23:39.729Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:23:39.704Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:23:39.743Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:23:39.756Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2021-11-14T08:23:39.813Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:23:43.975Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:23:44.017Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:23:44.020Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:23:44.030Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:25:01.866Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:25:01.889Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:25:01.911Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:25:01.925Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:25:01.924Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:25:01.969Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:25:01.986Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:25:01.994Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2021-11-14T08:25:02.075Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:25:07.569Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:25:07.637Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:25:07.644Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:25:07.680Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:25:07.705Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:25:07.721Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:25:07.756Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:25:07.785Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2021-11-14T08:25:07.901Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:26:03.501Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:26:03.551Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:26:03.550Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:26:03.575Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:26:03.593Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:26:03.616Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:26:03.628Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:26:03.630Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2021-11-14T08:26:03.797Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:26:16.307Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:26:16.314Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:26:16.343Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:26:16.353Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:26:16.363Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movielog_test...","timestamp":"2021-11-14T08:26:16.369Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:26:16.372Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2021-11-14T08:26:16.373Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2021-11-14T08:26:16.486Z"}
